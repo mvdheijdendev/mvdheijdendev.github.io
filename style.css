@@ -1,0 +1,7 @@
+.page{
+	max-width: 960px;
+	min-height: 100vh;
+	margin: 0 auto;
+	background-color: #ffffff;
+	box-shadow: 8px 0 10px -5px #202020, -8px 0 10px -5px #202020;
+}
