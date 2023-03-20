@@ -1,3 +1,8 @@
+body {
+	background-color: #383838;
+	padding-left: calc(100vw - 100%);
+}
+
 .page{
 	max-width: 960px;
 	min-height: 100vh;
