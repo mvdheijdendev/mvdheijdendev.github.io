@@ -3,7 +3,7 @@ body{
 	padding-left: calc(100vw - 100%);
 }
 
-.page{
+.page_holder{
 	max-width: 960px;
 	min-height: 100vh;
 	margin: 0 auto;
