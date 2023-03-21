@@ -17,3 +17,13 @@ body{
 	background-color: #ffffff;
 	box-shadow: 8px 0 10px -5px #202020, -8px 0 10px -5px #202020;
 }
+
+h1, h2, h3, h4, h5, h6, ul{
+  margin-top:15px;
+  margin-bottom:10px;
+}
+
+p{
+  margin-top:0px;
+  margin-bottom:10px;
+}
