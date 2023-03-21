@@ -17,6 +17,10 @@ body{
 	box-shadow: 8px 0 10px -5px #202020, -8px 0 10px -5px #202020;
 }
 
+.inner_page{
+	padding: 40px;	
+}
+
 h2{
 	margin-top:40px;
 	margin-bottom:10px;
