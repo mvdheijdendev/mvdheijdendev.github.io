@@ -19,6 +19,7 @@ body{
 
 .inner_page{
 	padding: 40px;	
+	word-wrap: break-word;
 }
 
 h2{
